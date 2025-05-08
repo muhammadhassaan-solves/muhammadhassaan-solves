@@ -5,7 +5,7 @@
 
 I build systems that are fast, smart, and secure.
 
-My work blends DevOps for speed, DevSecOps for safety, and AIOps for intelligence. I love turning manual tasks into automated flows and using AI to make systems self-aware.
+My work blends DevOps for speed, DevSecOps for security, and AIOps for intelligence. I love turning manual tasks into automated flows and using AI to make systems self-aware.
 
 Let’s connect and build something powerful.
 
