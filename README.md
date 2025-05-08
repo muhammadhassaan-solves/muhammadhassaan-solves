@@ -50,5 +50,12 @@ Always curious. Always improving.
 13. [Secure Kubernetes Operations with Role-Based Access Control](https://github.com/muhammadhassaan-solves/secure-kubernetes-operations-with-role-based-access-control)
 14. [AI-Driven Vulnerability Detection with OpenVAS and Tensorflow](https://github.com/muhammadhassaan-solves/ai-driven-vulnerability-detection-openvas-tensorflow)
 15. [Designing Secure Serverless Functions with AWS Lambda](https://github.com/muhammadhassaan-solves/secure-serverless-functions-with-aws-lambda)
-
-</p>
+16. [Basic GAN Implementation with TensorFlow](https://github.com/muhammadhassaan-solves/implementing-gan-with-tensorflow)
+17. [Containerizing and Deploying a Machine Learning Model on Kubernetes](https://github.com/muhammadhassaan-solves/containerize-and-deploy-ml-model-with-kubernetes)
+18. [Installing and Configuring Apache Airflow for ML Workflows](https://github.com/muhammadhassaan-solves/apache-airflow-ml-pipeline)
+19. [Implementing Zero Trust with SPIFFE/SPIRE for Securing ML Model Deployment](https://github.com/muhammadhassaan-solves/implementing-zero-trust-with-spiffe_spire-for-ml-model-deployment)
+20. [Automated ML Pipeline with GitLab CI/CD](https://github.com/muhammadhassaan-solves/automated-ml-pipeline-with-gitlab-ci-cd)
+21. [Implementing and Training a Reinforcement Learning Agent using OpenAI Gym](https://github.com/muhammadhassaan-solves/training-a-reinforcement-learning-agent-using-openai-gym)
+22. [Implementing and Interpreting a Deep Learning Model for Fairness using SHAP](https://github.com/muhammadhassaan-solves/interpreting-deep-learning-model-for-fairness-using-shap)
+23. [Fine-Tuning a Transformer Model with Hugging Face Transformers Library](https://github.com/muhammadhassaan-solves/fine-tuning-transformer-model-with-hugging-face)
+24. [Log Analysis Pipeline with ETL, RDS, and Serverless API Integration](https://github.com/muhammadhassaan-solves/log-analysis-pipeline)
