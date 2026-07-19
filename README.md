@@ -2,8 +2,6 @@
 
 # Hi, I'm Muhammad Hassaan 
 
-## DevOps Engineer | Platform Engineering | AI Infrastructure
-
 I build production-ready cloud platforms and AI infrastructure.
 
 With 2+ years of experience as a DevOps Engineer, I design, automate, and operate cloud-native systems using AWS, Kubernetes, Terraform, GitOps, and modern observability practices.
